@@ -32,7 +32,8 @@ nav {
 	padding-top: 30px;
 	float: left;
 	margin-bottom: 20px;
-	color: #777777;
+    color: #777777;
+    text-align: center;
 }
 #article1 {
 	width: 475px;
@@ -42,9 +43,10 @@ nav {
 	padding-top: 10px;
     color: #ccc;
     text-align-last: auto;
+    text-align: center;
 }
 
-#h123 {
+#divlines {
 	width: 440px;
 	height: 70px;
 	background: #ccc;
@@ -52,7 +54,8 @@ nav {
 	padding-top: 10px;
 	color: #777777;
 	font-weight: bold;
-	font-size: 8px;
+    font-size: 50%;
+    text-align: center;
 }
 
 #p1 {
@@ -62,7 +65,9 @@ nav {
 	margin: 10px 30px 10px 15px;
 	padding-top: 10px;
     color: #777777;
-    font-size: 8px;
+    font-size: 50%;
+    font-weight: bolder;
+    text-align: center;
 }
 
 #aside1 {
@@ -71,7 +76,10 @@ nav {
 	background: #ebebeb;
 	padding-top: 30px;
 	float: right;
-	color: #777777;
+    color: #777777;
+    text-align: center;
+    font-size: 8px;
+    
 }
 #footer1{
 	clear: both;
